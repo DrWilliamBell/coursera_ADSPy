@@ -1,0 +1,1766 @@
+
+
+On Wed, May 6, 2026 at 9:20 AM Support (Dune HD) <support@dune-hd.com> wrote:
+
+
+On Thu, Apr 30, 2026 at 7:00 PM Alex Neste <alneste@alneste.com> wrote:
+И ещё подскажите пожалуйста:
+ 
+>>> На данный момент вы можете скачать и поставить обновление отсюда:
+>>> https://dune-hd.com/firmware/alpha/#260303_1721_r24
+ 
+- я скачал .dff файл обновления для tv794a, но в браузере файлов он не открывается – Enter не реагирует.
+Как ещё его можно поставить?
+
+Здравствуйте!
+Должно работать. Просто нажать ENTER на .dff файле.
+У вас точно tv794a написано в Настройки - Информация?
+Перекачайте файл заново.
+ 
+ 
+Поиск обновлений в Setup его не находит, он ничего после 240619_0210_r22 у меня не находит!
+ 
+ 
+>>> Или мы можем подготовить и прислать Вам специальный патч, которые его отключит.
+- повторюсь = было бы здорово его совсем убить (TV) под Вашим руководством.
+
+Пришлем когда будет готово.
+
+Пришлите пожалуйста фото этого пестрого экрана, когда он появится в следующий раз.
+
+И сразу после этого Настройки - Поддержка - Отправить отладочный отчет, и пришлите номер отчета.
+Спасибо!
+ 
+ 
+ 
+Спасибо!
+ 
+Kindest Regards,
+
+*********************************
+Alex Nesterov
++44 740 493 3156 mobile UK
++971 524 822 135 mobile UAE
+--------------------------------
+Email: 
+alneste@alneste.com
+*********************************
+ 
+From: Support (Dune HD) [mailto:support@dune-hd.com] 
+Sent: Wednesday, April 29, 2026 5:28 PM
+To: alneste@alneste.com
+Subject: Re: Dune HD Max Vision 4K
+ 
+Здравтсвуйте!
+ 
+On Sat, Apr 25, 2026 at 5:19 PM Alex Neste <alneste@alneste.com> wrote:
+Здравствуйте,
+ 
+Скажите, для моей Dune HD Max Vision 4K ещё ожидаются какие-то обновления прошивки
+ 
+Ожидаются.
+На данный момент вы можете скачать и поставить обновление отсюда:
+https://dune-hd.com/firmware/alpha/#260303_1721_r24
+ 
+или вы больше ей не занимаетесь?
+Встречаются глюки (писал ранее), хотя ничего особо критичного, но всё же устройство недешёвое, ожидал исправлений..
+ 
+Самое неприятное, что я не могу настроить при включении чтобы открывалось само приложение DUNE, а не пёстрый экран рекламы, где сама DUNE – просто одна из иконок.
+Я пользуюсь устройством исключительно для воспроизведения со своих носителей, а мне каждый раз вываливается весь этот мусор (реклама кино, ютубы и прочие бесполезные для меня функции).
+Как от этого избавиться? Вы мне давали как-то совет, но так не работает (настройки – Начальный экран или Внешний вид). Это не работает.
+(Вы писали: >>> “Можно, все настраивается в меню Настройки - Внешний вид. Например, выберите старый вид”)
+ 
+Наверное у вас происходит автоматический запуск Android TV экрана.
+Чтобы его отключить, можно сбросить настройки плеера и после этого не активировать Google Play cервисы.
+Или мы можем подготовить и прислать Вам специальный патч, которые его отключит.
+ 
+ 
+Моя прошивка сейчас: 240619_0210_r22
+ 
+Kindest Regards,
+
+*********************************
+Alex Nesterov
++44 740 493 3156 mobile UK
+--------------------------------
+Email: 
+alneste@alneste.com
+*********************************
+ 
+From: Support (Dune HD) [mailto:support@dune-hd.com] 
+Sent: Friday, December 13, 2024 9:56 AM
+To: Al.Neste/WH
+Subject: Re: ВОПРОСЫ В ПОДДЕРЖКУ / RE: New customer message on July 22, 2023 at 8:51 pm
+ 
+Здравствуйте.
+ 
+On Thu, Dec 12, 2024 at 11:28 PM Al.Neste/WH <nesterov@windyhaven.co.uk> wrote:
+Здравствуйте,
+ 
+У меня несколько вопросов по моему Dune HD Max Vision 4K, в целом доволен, но буду благодарен если уточните следующее:
+1.       Довольно часть при включении (точнее при выходе из StandBy при нажатии кнопки питания) экран чёрный. При этом в настройках стоит Основной (не чёрный). Иногда решается нажатием кнопки «назад» несколько раз, но иногда никак и приходится наощупь включать что-то из видео чтобы он «поймал» и дал картинку. Можно ли это как-то устранить? У вас ожидается выход новой прошивки (у меня сейчас последняя бета, но я и предыдущие пробовал – тоже самое). У меня SAMSUNG 85 QN900B (8K) подключение HDMI.
+ 
+Используется комплектный штатный HDMI-кабель?
+Когда проблема происходит, если вынуть-вставить HDMI-кабель, проблема исправляется?
+Какой HDMI режим настроен - 8Kp60?
+Попробуйте временно использовать режим 4Kp60, будет ли проблема повторяться после этого?
+Если у ТВ более одного порта поддерживает 8K, попробуйте подключить в другой порт.
+Если есть возможность проверить другой HDMI-кабель (с поддержкой 8K, "Ultra Certified"), попробуйте помогает ли он.
+ 
+ 
+2.       Не работает V+/V-. На экране показывает ползунок и он меняется, но громкость не падает – очень неудобно. Можно исправить/настроить?
+ 
+Проверьте настройки вывода звука, bitstream passthrough или PCM.
+В режиме bitstream громкость регулируется на приемнике, а не на источнике.
+ 
+3.       Zoom в основном не работает – убрать полосы вверху/внизу нельзя. Не ожидается исправление?
+ 
+Пришлите пожалуйста фото примера проблемы,
+и сразу же после фото проблемы нажмите TOP MENU и в течение 1 секунды удерживайте кнопку 9,
+плеер отошлет отладочный дамп, сообщите номер дампа.
+ 
+4.       Можно ли как-то совсем выключить начальный экран который постоянно показывает кучу всяких кино и прочей развлекухи? Мне нужен исключительно классический интерфейс Дюны (Источники, Избранное, Настройки) – я не смотрю телевизор вообще. Неудобно – можно сразу выводить интерфейс Дюны, как было в предыдущих моделях?
+ 
+Можно, все настраивается в меню Настройки - Внешний вид. Например, выберите старый вид.
+ 
+ 
+Спасибо!
+ 
+Kindest Regards,
+
+*********************************
+Alexey Nesterov
++44 740 493 3156 mobile UK
++971 524 822 135 mobile UAE
+--------------------------------
+Email:
+alneste@alneste.com
+*********************************
+
+SEPARATOR!!!
+
+
+ 
+
+
+
+
+
+
+Hello Alexey,
+
+You recently raised a question with our customer care team.
+
+Below is a summary and our response.
+
+Reference Number: 241112-001332
+Subject: DB1 Room Correction Fails (SubApp)
+ 
+Response By E-mail (Neil) (13/11/2024 10:29)
+Hi Alexey,
+
+Sorry, but this is not something which is retained.
+
+Ordinarily, older, unsupported software etc. would have been possibly archived, for a few years, but this is beyond the period this was likely, plus, with three new, corporate owners in this period, various changes have been implemented in I.T. systems, storage etc., and older items and spares have been downsized and discarded several times, as someone new tries to add new efficiencies.
+
+Sorry, this is just not something we have around anymore.
+
+Any room eq will now have to be implemented by a third-party device and / or software, if required.
+
+Best regards,
+
+Neil
+Customer By Service Email (Alexey Nesterov) (12/11/2024 18:59)
+Hi Neil,
+
+i see. This is unfortunate, however, may i ask you to find me an older version of SubApp - i have successfully used it in the past and now its not available from the web, but i hope you could find it for me?
+
+Thank you in advance,
+
+Kindest Regards
+
+Alex Neste
+***********************
+alneste@alneste.com
++447404933156 mob.
+***********************
+
+12 нояб. 2024 г. 14:08 пользователь Bowers & Wilkins Customer Care <support@bowerswilkins.com> написал:
+
+Response By E-mail (Neil) (12/11/2024 14:08)
+Hi Alex,
+
+Many thanks for your enquiry.
+
+The marketing page for this unit should have been move to the Archive section, and the links deactivated, so I will pass this on to the Marketing team.
+
+Unfortunately, these subs are no longer supported for hardware or software operation, so we cannot help with the app and communications.
+
+The last release of software was in 2013, when testing and development ceased, as the team worked towards newer designs, on totally different platforms.
+
+Third-party EQ could be applied, through the preamp / processor, if the subs have been moved to a different room, or the room has changed structurally.
+
+Sorry we are no longer able to offer support for this product.
+
+Best regards,
+
+Neil
+Customer care
+Customer By Service Web (Alexey Nesterov) (12/11/2024 11:27)
+Hello,
+I have a problem running Room Compensation tool on my DB1 (i have two units, pls see attached photo). The tool stucks on "Starting Measurement Engine" step. It says "please wait" and i waited a few times for 30+ min:: bar is moving again and again but never goes to next step. I did that procedure once a long ago when purchased and it was successful). I tried 2 different sets of wires (supplied with each DB1) and i even tried from two PCs (one is that i used last time, i still keep that pc) but results are same - it looped on that stage. Connection is OK, i can see and change settings, LEDs on RS232 and SC1 are ON, just Room Correction does not work.
+Here are facts about my setup:
+- my 2x DB1 were purchased in 2010-2011 but they in perfect condition and work well
+-Firmware is 1.0.0.0 and i dont know how to update it (new tool "DB Programmer" from your Website is not connecting, i tried it)
+- i use SubApp from your Website (v.1.9), cannot find any earlier
+- tried from two different PCs (Windows 10, Windows 7), and tried both sets of wires (and SC1 cards)
+- followed instructions from SubApp manual precisely
+- cannot see any way to reset to factory settings
+
+Kindly provide a solution/advice. I suspect software/firmware version conflict. Thank you in advance! 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Copyright © , All rights reserved.
+
+For information about how we process your personal data, please see our privacy statement.
+
+
+
+
+
+ 
+[---002:002988:37484---] 
+
+
+SEPARATOR
+
+ 
+
+Thank you for dining with us! 
+We hope you enjoyed your recent dining experience at 
+ 
+
+The Ivy Castle View 
+
+Tuesday, 2 April 2024 at 16:00 
+Name: Alex Nesterov 
+Booking #: 2110131836 
+
+Book this restaurant again 
+
+or 
+
+ 
+
+
+Have questions? Get help 
+
+Registered office: 5 New Street Square, London, EC4A 3TW, UK.
+Company number: 3914016
+OpenTable and the OpenTable logo are registered trademarks of OpenTable, Inc.
+© 2024 OpenTable, Inc. - All rights reserved 
+
+SEPARATOR
+
+ 
+
+
+
+Держите данные аккаунта Google под контролем
+
+
+ 
+bovaribovari@gmail.com 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+Это письмо было отправлено, так как 17 августа в 18:22 был выполнен вход в сервис GitHub с помощью функции "Войти с аккаунтом Google". 
+В этом письме приведена информация, переданная в сервис. Сейчас вам не нужно ничего делать. 
+
+
+
+
+
+
+
+Сервис "GitHub" получил следующие данные профиля: 
+
+
+
+
+
+ 
+Al Neste 
+имя и фото профиля; 
+
+
+
+
+
+
+ 
+bovaribovari@gmail.com 
+
+адрес электронной почты.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+В этом письме приведена информация о данных, которые 17 августа в 18:22 были предоставлены сервису.
+
+
+
+Чтобы прекратить использовать функцию "Войти с аккаунтом Google" в сервисе GitHub, перейдите на страницу аккаунта Google. 
+
+
+
+
+ 
+
+
+
+
+Ознакомьтесь с политикой конфиденциальности и условиями использования сервиса GitHub, чтобы узнать, как сервис GitHub будет обрабатывать и защищать ваши данные.
+
+
+Чтобы удалить данные, которыми вы поделились с сервисом GitHub, перейдите в сервис GitHub.
+
+
+ 
+Под защитой Google 
+В аккаунте Google используются передовые технологии защиты, которые обеспечивают конфиденциальность и безопасность ваших данных. 
+
+
+
+
+
+
+
+
+
+ 
+
+Это сообщение о важных изменениях в вашем аккаунте и сервисах Google.
+Чтобы перестать получать подобные письма, откажитесь от рассылки.
+Даже если вы откажетесь от нее, вам по-прежнему будут приходить оповещения системы безопасности.
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+
+
+SEPARATOR
+
+ 
+
+Что посмотреть. Сериалы в духе «Мыса страха»
+«Мыс страха», уже третью адаптацию каноничного сюжета о возмездии и вине, называют самой ожидаемой новинкой июня. Первые серии уже заставляют нервно ерзать в кресле, считая каждый новый поворот в этом мутном деле. Пока Хавьер Бардем, истерически хохоча и угрожающе заискивая, мучает семейство Боудэнов, вспомним еще несколько похожих на этот триллер сериалов. 
+Какие-то напоминают новинку напряженными играми с маньяком, другие так же мастерски показывают, как из-за недомолвок рушатся семьи, а третьи отсылают к «Мысу» атмосферой южной готики. 
+Все это, а также много других замечательных шоу вы найдете на lostfilm.download. 
+
+
+ 
+
+Черная птица
+Самый близкий по духу сериал. Здесь тоже отлично показано, как здоровая психика бьется в судорогах при столкновении с извращенной. В драме есть и маньяк, искренне верящий в свою правоту, и обладатель не самой чистой совести, но все же не такой уж дурной человек, которому с этим чудовищем нужно найти общий язык. Уровень стресса при разговорах этих двоих зашкаливает. 
+  
+
+
+ 
+
+Настоящий детектив
+Разбавим кошки-мышки сериалом, который формально не похож на «Мыс страха», но делит с ним общую атмосферу. Южная готика составляет большой процент успеха шоу. Авторы обоих проектов верно подметили, что влажность южных штатов создает ощущение непроходящего морока. Все это душит главных героев, и в такой среде отлично себя чувствуют психи всех мастей. 
+  
+
+
+ 
+
+Охотник за разумом
+Говоря о разговорах с маньяками, мы не могли не упомянуть эту классику. У здешних монстров чуть меньше возможностей всех загипнотизировать и разыграть жертв. Это не значит, что они не пытаются воспользоваться аргументом «со мной плохо обращались родители». Все это создает ощущение головокружения и дереализации. На сценах интервьюирования самых отвратительных выродков человечества может стать дурно. 
+  
+
+
+ 
+
+Презумпция невиновности
+Здесь явной угрозы со стороны третьего лица нет, зато так же подробно показано, как под давлением обстоятельств рушится семья. Даже откровенные признания в своих прегрешениях не помогают сохранить гармонию. Чем туже затягивается веревка на шее героя, тем более шатким становится фундамент его дома. 
+  
+
+
+ 
+
+Защищая Джейкоба
+Еще одни судебные дрязги, спровоцированные членом семьи, да еще и несовершеннолетним. С «Мысом страха» этот и предыдущий сериал роднит разве что несовершенство системы, результат манипулирования фактами в СМИ и размышления о ментальных расстройствах, переходящих от предков к ребенку. Достаточно, чтобы поставить их в один ряд и смотреть в период ожидания другого сериала. 
+  
+
+
+ 
+
+Последователи
+Если вы искали, где бы еще понаблюдать за парадоксальным обаянием зла, то тут самое место. Хладнокровный, изворотливый и харизматичный убийца даже из-за решетки умудряется создать собственный культ и управлять им. И как в таких обстоятельствах доказать его причастность? А если еще и общественность начинает сомневаться в его вине? 
+  
+
+
+ 
+
+Фарго
+Как бы мы могли говорить о соблазнительности зла без упоминания первого сезона этого шоу? Да, с «Мысом страха» они во многом расходятся. «Фарго» больше упирает на банальность, даже идиотию будней, приводящих к катастрофе. Но в обоих шоу есть незаконно харизматичный антагонист, к хитрым аргументам которого невозможно не прислушаться. Хотя бы на пару секунд. 
+  
+
+
+ 
+
+Мистер Мерседес
+В этом случае очень сложно поддерживать парня, с которым явно что-то не так. В отличие от Хавьера Бардема, истощенный вид Гарри Тредэуэя вызывает тревогу. Но нам показывают нездоровую обстановку у него дома, и мы начинаем размышлять о причинах зарождения мрака в сердцах некоторых людей. Еще один изощренный тест на сочувствие. 
+  
+
+
+ 
+
+Падение
+Психологическая игра в кошки-мышки между, казалось бы, примерным семьянином и охотящейся за ним сильной женщиной, у которой свои скелеты в шкафу. Вряд ли вы подумаете об этой паре, глядя на противостояние Хавьера Бардема и Эми Адамс, но их отношения так же запутаны, и в душах обоих хватает тьмы. 
+  
+
+Настроить уведомления | Отписаться от рассылки | Открыть в браузере 
+
+
+SEPARATOR
+
+Refer and Earn 	 
+
+
+Get up to £10 cashback for every new referral
+T&Cs apply. To find out more click here 
+
+
+Dear Alexey,
+For every friend that registers and transacts with Sterling FX, we will pay you a cash amount direct into your bank account to say Thank You.
+If your friend uses us for an International Payment you get £10 and for a travel money order, we will pay you £5 direct into your bank account.
+Share your invite code via
+ facebook 
+ whatsapp 
+ x 
+ copy link  
+
+
+Alternatively you can copy the below link and share with your friends
+https://www.sterlingfx.co.uk?referral_code=1AN520782&campaigncode=10002.
+There's no limit to how much you can get paid so start introducing all your friends, family and colleagues to a fantastic foreign exchange service that can save them money on their travel money and international payments! 
+Kind regards
+Sterling FX
+Disclaimer 
+This e-mail (including any attachments) is private and confidential and may contain privileged material. If you have received this e-mail in error, please notify the sender and delete it (including any attachments) immediately. You must not copy, distribute, disclose or use any of the information in it or any attachments. Telephone calls may be monitored or recorded.
+This document has been prepared by Sterling FX for information purposes only. This document describes the product and summarises the risks and benefits associated with entering into a transaction of this nature or making an investment of this nature. Whilst Sterling FX has exercised reasonable care in preparing this document and any views or information expressed or presented are based on sources it believes to be accurate and reliable, no representation or warranty, express or implied, is made as to the accuracy, reliability or completeness of the information contained herein.
+The terms and conditions as described in this document, including pricing are indicative only and subject to change without notice. Prices are only agreed when you enter into the transaction with us or make the investment with us. If you receive information from us which is inconsistent with other information which you have received from us, you should refer this to your Sterling FX representative for clarification.
+Sterling FX acts solely in a principal capacity. Not all products or transactions will fulfil your requirements. You should be aware that any product or transaction which you enter into with us is, in the absence of any written agreement to the contrary, on the basis that you are able to make your own independent assessment and decision as to your requirements and whether that product or transaction fulfils those requirements. Your decision will be based on your own knowledge and experience and any professional advice which you may have sought in relation to the financial, legal, regulatory, tax or accounting aspects of the proposed product or transaction.
+This communication does not constitute an offer to sell or a solicitation of an offer to buy securities in the United States (?US?) and is not being directed at persons who are located in the US or who are US Persons, as defined in Rule 902 of Regulation S under the U.S Securities Act 1933, as amended (altogether, "US Persons").
+Travel Money  |  Buy Back  |  International Payments 
+
++44(0)207 723 3000  |  info@sterlingfx.co.uk  |  www.sterlingfx.co.uk 
+
+Sterling Consortium Limited is registered in England and Wales under company number 05850613.
+Sterling Consortium Limited is authorised and regulated by the Financial Conduct Authority as an Authorised Payments Institution (API Firm reference number 987941). 
+Furthermore, we are governed by HM Revenue and Customs as a Money Service Business (MSB registration no. 12120971). 
+The actual provision of travel money is not regulated by the FCA. © 2024 Sterling 
+Unsubscribe 
+
+
+
+
+
+
+SEPARATOR
+
+Dear Mr Alexey Nesterov
+ 
+We’re pleased to confirm that your application for a Public Members parking permit has been approved. Your permit will remain active until 26-01-2027.
+
+Please note that students permit is against their student email address. 
+You are now required to create an Evology Autopay account to gain your free stay period - please note that you need to register for both systems to gain your free period.
+Evology Autopay will allow your free stay period, and should you go over this it lets you pay automatically for any additional parking — no need to log in daily.
+ 
+Permit Holders  Parking Tariffs
+Up to 5 hours	£0.00
+Up to 7 hours	£2.40
+Up to 8 hours  	 £3.60
+Up to 9 hours  	£4.80
+Up to 24 hours	£10.80
+*All Tariffs expire at midnight
+ 
+To set up your account:
+1. Go to https://autopay.evologyparking.com/
+2. Click “Register for Evology Autopay”
+3. Enter your contact, vehicle, and payment details
+NOTE: Your registered vehicle(s) must match those on your approved permit.
+ 
+What happens if a payment fails?
+Evology will try three times to take payment
+You’ll be alerted via the email address you used when you signed up for your permit
+After the third failed attempt, a Parking Charge will be issued
+ 
+Need to change your vehicle registration?
+Update both your Evology Permits Permit and your Evology Autopay account
+To update your Evology Permits Permit, log in here: https://www.cpppermitsystem.co.uk/surreysportspark
+ 
+ 
+ 
+Need Help?
+Our helpdesk is available via email; info@carparkingpartnership.co.uk
+ 
+________________________________________
+Surrey Sports Park
+Evology Permits
+
+
+SEPARATOR
+
+
+
+---------- Forwarded message ---------
+From: <noreply@lbhfparking.com>
+Date: Wed, 13 May 2026, 14:08
+Subject: London Borough of Hammersmith & Fulham Parking Services - correspondence relating to HZ96850627
+To: <karimova7g@gmail.com>
+
+Please find attached an email copy of our reply to your communication. HZ96850627
+If we have your current address, a formal copy will be sent by post in due course
+. If you are replying to this message, please ensure that the reference number is included in the subject. If the attached letter is a formal "Notice of Rejection of Representation" and you are due to receive an appeal form, the form will be included with the formal copy sent by post. We are unable to email appeal forms. 
+If you have any further information/comments to make regarding this PCN, please submit them on-line using the challenge form on the following web page 
+www.lbhf.gov.uk/pcn 
+Please note the information in this email may contain confidential/sensitive information and is intended for the named recipient(s) only. Please ensure you keep this information confidential and think carefully before forwarding on to other parties, printing or making any copies. If you are not the intended recipient, please notify us immediately and delete this email and attachments.
+
+
+SEPARATOR
+
+Trouble viewing this email? View in browser. 
+
+ 
+
+ 
+Current balance
+2800 points  as of 15/08/2026
+
+	   	AN 
+
+
+
+ 
+
+
+🎉 Congratulations, here is your voucher!
+You have 2800 points. Convert your points into a £3 voucher on your Membership account. Up to you! 
+ 
+ 
+ 
+ 
+ 
+
+2000
+POINTS 
+	3000
+POINTS 
+	6000
+POINTS 
+	12000
+POINTS 
+	24000
+POINTS 
+
+
+  
+Transform your points to get your voucher!
+  
+ 
+   
+	Voucher £3 
+  
+   	2000 Points 
+	  
+
+
+
+Claim voucher 	 
+
+
+
+
+LEARN MORE 
+
+  
+Always more exclusive rewards
+Your points, your way ! 
+ 
+   
+	Voucher £5 
+  
+ 
+   	3000 Points 
+	  
+
+
+
+
+ 
+   
+	Voucher £10 
+  
+ 
+   	6000 Points 
+	  
+
+
+
+
+ 
+   
+	Voucher £20 
+  
+ 
+   	12000 Points 
+	  
+
+
+
+
+ 
+   
+	Voucher £40 
+  
+ 
+   	24000 Points 
+	  
+
+
+
+
+
+  
+Earn points. Unlock vouchers. Enjoy rewards
+  
+Earn points. Unlock vouchers. Enjoy rewards. 
+  
+
+ 
+   	Get active 
+100 points for 2.5 hours of sport per week 
+
+Get active, earn points 
+
+
+
+ 
+   	Share 
+1 product review = 100 points (max. 5 per year) 
+
+Share your purchase experience with other Decathlon customers 
+
+
+
+ 
+
+
+	   
+	Your sports partner 
+Decathlon rhymes with good offers and great gifts. But we also give you the best advice to support you through your sports journey. Don’t miss out on the information YOU need! 
+COMMUNICATION PREFERENCES 
+
+
+
+
+  
+ 
+
+
+  
+Give us your opinion on this email 
+Help us improve our communication 
+☆ 
+☆ 
+☆ 
+☆ 
+☆ 
+
+
+  
+ 
+
+             
+
+Decathlon UK Limited trading as Decathlon is a company registered in England with company number: 03140144. Registered office is 9 Maritime Street, Rotherhithe, London, SE16 7FU. VAT number: GB679262296. 
+
+Not quite right for you?  Unsubscribe here 
+  
+
+©2026 Decathlon 
+Returns Policy   Terms of Supply   Terms of Use   Privacy Policy 
+
+
+
+
+
+
+
+
+SEPARATOR
+Привет! 
+Это Саша из Paper VPN.
+ 
+Мы автоматически перенесли вашу подписку на другой сервер. Без этого было никак: иначе VPN на ваших устройствах мог бы работать нестабильно.
+ 
+Пожалуйста, обновите подписку или отключите и включите VPN, чтобы сервис снова заработал. 
+
+
+Как снова подключиться к VPN 
+ 
+• Paper VPN и другие приложения с Paper в названии: заново подключитесь к VPN. Если вы уже подключены, отключите VPN и включите заново.
+• Happ, Hiddify или другие приложения без Paper в названии: обновите настройки подписки.
+ 
+Как обновить настройки подписки
+ 
+• Happ: нажмите на значок с двумя круглыми стрелками. 
+• Hiddify: нажмите на значок со стрелками рядом с подпиской.
+• v2Box: перейдите во вкладку Configs и нажмите на значок со стрелками рядом с подпиской.
+• FoXray: откройте приложение и перейдите на вкладку Subscriptions. Нажмите на три точки рядом с подпиской и выберите Refresh.
+• V2RayTun: откройте вкладку «Подключение», пролистните вниз и нажмите на значок со стрелкой.
+
+
+
+
+
+Что можно сделать на будущее
+ 
+Мы советуем подключаться к VPN именно через приложение Paper VPN, оно доступно почти для всех операционных систем. Ищите ссылку в инструкции.
+ 
+Если возникнут проблемы с подключением, смените сервер или локацию сервера в личном кабинете. В личном кабинете введите почту, на которую оформляли подписку, и пароль. Если не помните пароль, его можно восстановить.
+ 
+Как сменить локацию сервера или сервер
+ 
+1. В личном кабинете найдите кнопку «Сменить сервер» или «Сменить локацию», нажмите на нее и подождите несколько секунд. Также сменить сервер или локацию сервера можно в приложении Paper VPN для iOS и Android и в приложении Paper Paper. 
+ 
+2. Отключите и включите VPN или обновите настройки подписки. 
+ 
+• Paper VPN и другие приложения с Paper в названии: отключите и включите VPN. 
+• Happ, Hiddify или другие приложения без Paper в названии: обновите настройки подписки.
+ 
+Если смена сервера не помогла, попробуйте сменить локацию. Если смена локации не помогла, попробуйте протестировать несколько стран. Если и после этого VPN не заработает, напишите в поддержку через веб-форму. 
+
+
+
+На связи
+Саша из Paper VPN
+
+
+
+
+
+
+ 
+
+SEPARATOR
+
+Hello again, 
+
+I have another client in Oldbury, B69 who came to Bark to find a Data Recovery Specialist (not relevant to your services?} . 
+Bark are a growing company matching customers with service providers. We've got a really good Trustpilot score with over 60k reviews and around 200k active businesses using our platform. 
+
+Louis, Oldbury, B69 
+Contact Louis for free 
+•	Media type(s) 
+Hard drive (external/portable) 
+•	Data recovery type 
+Personal, Business, Music production 
+•	Is this an emergency? 
+Yes 
+•	Additional details: 
+2tb LaCie fails to pop up & access but still shows in disk utility & is greyed out instead 
+
+As before you can reply to them for free if you're interested: 
+Contact Louis Free » 
+
+
+If Louis isn’t a good match or if you have any questions, please let me know – my contact details are below. 
+
+Kind regards, 
+
+Lucy Thompson 
+Marketplace Success Executive 
+lucy.thompson@bark.com / 020 3697 0237 
+ 
+    
+Bark.com Global Limited | 85 Great Portland Street, London, England, W1W 7LT, United Kingdom (registered in England & Wales, registration number 10614196) 
+Learn how Bark could help grow your business | Privacy Policy 
+
+Don’t want to hear from me again? Click here 
+
+
+
+
+
+
+
+ 
+
+SEPARATOR
+
+
+
+ 
+
+
+Start seeing what you’ve been missing.  
+When your data loss prevention (DLP) tools aren’t talking to your endpoint or network security, critical indicators get lost in the noise. 
+
+Bottom line: You need unified context to clear the clutter.
+
+Cut Data Noise Without Cutting Visibility
+July 21
+REGISTER NOW 
+
+
+In the fourth session of CBX Fest, get expert insight into: 
+✅ Reclaiming clarity across your entire environment
+✅ Out-of-box configurations for faster TTV 
+✅ How Symantec CBX natively connects telemetry across control points to identify real data risks instantly
+
+
+
+ 
+ 	 
+ 	 
+ 	 
+ 	 
+ 
+
+For questions or concerns regarding products or services
+please visit Symantec Enterprise Security Support Center at Broadcom.
+When you engage with Broadcom, we take the time to understand what interests you. If we got it wrong, you can update your preferences or unsubscribe through our Preference Center. If you'd like to know more about how we use your personal information, you can read our privacy statement.
+Broadcom 3421 Hillview Ave Palo Alto California 94304 United States of America
+Copyright © 2026 Broadcom. All Rights Reserved. The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.
+
+ 
+
+
+
+
+
+
+
+ 
+
+SEPARATOR
+ 
+It looks like you left a few items in your shopping cart.	 
+
+Hi, Alexey Nesterov
+We noticed that you visited MobileSentrix and added some items to your shopping cart. Would you like to check out now?	
+ 
+Multi-Purpose Glue Adhesive T7000 (50ml / Black) (Zhanlida)		1
+	
+ Proceed to checkout 
+
+if you have any questions about these items, please contact us. We're always a call away. +4424 7527 9555 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+	
+
+ 
+
+SEPARATOR
+ 
+
+ 	
+Dear Customer, 
+At First Abu Dhabi Bank (FAB), protecting our customers against fraud is a top priority. We are proud of our strong track record in keeping customer accounts safe and secure. However, tokenisation fraud remains an increasing threat and requires continued vigilance to avoid becoming a victim of fraudsters. 
+
+ 
+	What is tokenisation fraud? 
+
+Tokenisation links your credit or debit card to digital payment services such as Apple Pay, Samsung Pay or Google Pay. To complete the setup process, FAB will send a one-time password (OTP) via SMS. Once activated, purchases made using the tokenised card do not require additional OTPs. 
+	 
+ 	 
+	How do Fraudsters operate? 
+	 
+ 	
+Fraudsters require both your card details and OTP to commit this type of fraud. They may: 
+	 
+ 	• 
+	 	Impersonate police, government officials or other trusted organisations and ask you to disclose sensitive information. 
+
+		
+• 
+	 	Use fraudulent advertisements, fake websites or phishing scams to obtain your card details. 
+
+
+
+	 
+ 	 
+	How can you protect yourself? 
+		
+	 
+ 	1. 
+	 	Carefully read all OTP messages sent by FAB and ensure you understand the purpose of the OTP before sharing or using it. 
+
+		
+2. 
+	 	If the OTP relates to a purchase, verify that the transaction amount matches the intended purchase you are making. 
+
+
+
+3. 
+	 	If you receive an OTP relating to the activation of your card on Apple Pay, Samsung Pay or Google Pay and you did not initiate the request, do not proceed and report the incident immediately using the contact details below. 
+
+
+
+	 
+ 	
+Reporting fraud attempts to FAB: 
+If you believe you may have been targeted by a fraudulent attempt, please report it immediately by emailing atyourservice@bankfab.com or calling the FAB Contact Centre 600 52 5500 (or +971 2 6811511 if calling from outside the UAE). 
+
+
+	 
+ 	
+
+	 
+ 	
+Best regards, 
+First Abu Dhabi Bank 
+
+	 
+ 
+
+
+  	 	HELP & SUPPORT 
+ 	•	 	VISIT BANKFAB.COM 
+ 	•	 	PRIVACY POLICY 
+ 
+
+ 	 
+ 	 
+ 	 
+ 
+
+Important: Do not reply to this email.
+If you do not wish to receive marketing emails from FAB, please SMS "NOMKT" to 2121. 
+First Abu Dhabi Bank PJSC is licensed and regulated by the Central Bank of the United Arab Emirates.
+Its registered address is PO Box 6316, Abu Dhabi, United Arab Emirates. 
+ 	 
+ 	 
+ 	 
+ 	 
+ 	 
+ 
+
+  
+	  
+
+
+
+ 
+
+SEPARATOR
+ 
+ 
+ 
+ 
+
+
+
+1 new message awaits your response 
+ 
+
+Valerii Emelianov 
+
+Investment Analyst | Global Markets | Hedge Funds & Wealth Management | Data-driven Charts
+View message 
+
+
+
+
+
+
+
+Get the new LinkedIn desktop app 
+ 
+
+Also available on mobile 
+  
+
+________________________________________
+This email was intended for Alex Neste (IT Manager) 
+Learn why we included this. 
+
+You are receiving Messages digest emails.
+Unsubscribe   ·   Help 
+
+ 
+
+© 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn. 
+
+
+ 
+
+SEPARATOR
+ 
+ 
+Almost done! 
+ 
+
+To secure your GitHub account, we just need to verify your email address: alneste@alneste.com. 
+
+
+ 
+Verify email address 
+
+
+	
+
+
+
+
+ 
+This will let you receive notifications and password resets from GitHub. 
+ 
+Button not working? Paste the following link into your browser: 
+https://github.com/users/DrWilliamBell/emails/484009075/confirm_verification/b2bcc23b482af2ba650edbf1eae2f1c1c7f2b0f7 
+
+
+________________________________________
+ 
+Email preferences ・ Terms ・ Privacy ・ Sign in to GitHub 
+ 
+You’re receiving this email because you recently created a new GitHub account or added a new email address. If this wasn’t you, please ignore this email. 
+ 
+GitHub, Inc. ・88 Colin P Kelly Jr Street ・San Francisco, CA 94107
+
+
+SEPARATOR
+ 
+
+Алексей Леонидович!
+Из-за прогноза погоды фестиваль «Моспитомец» переносится на 26 июля. Это позволит провести мероприятие безопасно и комфортно для всех участников: гостей, волонтеров и животных.
+ 
+
+Программа останется прежней: Вас ждет выставка-пристройство, лекции «Школы ответственного хозяина», показательное выступление кинолога-спасателя и его четвероногого напарника, мастер-классы и другие активности.
+
+Подробнее
+
+
+
+ 
+
+В ожидании фестиваля Вы можете подготовить для благотворительной акции «Будка желаний» корм, лакомства, игрушки и другие необходимые питомцам вещи, а также посмотреть анкеты собак и кошек из городских приютов.
+
+Познакомиться с питомцами
+
+
+
+
+Спасибо, что поддерживаете животных из приютов столицы. До встречи 26 июля на фестивале «Моспитомец» около Музея городского хозяйства Москвы на ВДНХ!
+ 
+
+
+
+Понравилась рассылка? Поставьте оценку:
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+Обратная связь
+
+Вы получили это письмо, потому что пользуетесь сервисами Правительства Москвы. Если Вы не хотите получать персональные рекомендации и уведомления, откажитесь от подписки.
+
+
+
+
+ 
+
+SEPARATOR
+͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      ͏      
+ 
+
+ 
+Валентина, здравствуйте! 
+Начало 2026 года оказалось насыщенным на экономические события. Мы наблюдали снижение ключевой ставки и колебания цен в валюте, нефти и других активах. В такие периоды особенно важно опираться на факты и сохранять взвешенный подход к инвестициям. 
+ 
+Чтобы вам было проще ориентироваться в новостном фоне и понимать, как он влияет на ваши вложения, мы подготовили аналитический обзор. О том, что важного произошло за эти три месяца, читайте в полной версии на сайте. 
+ 
+ 
+
+ 
+ 
+Действия управляющих 
+ 
+ПИФ «Акции» 
+ 
+В первом квартале фонд инвестировал в основном в перспективные компании, которые работают только на внутреннем рынке. 
+ 
+Управляющие держали в портфеле меньше акций нефтегазовых компаний, чем их доля в индексе Мосбиржи — показателе, который отражает стоимость бумаг крупнейших российских компаний. Рост цен на нефть управляющие считают временным, и он не приведет к серьезному увеличению реальной стоимости бизнеса нефтегазовых компаний. Дальнейший рост акций этого сектора ограничивают две причины: крепкий курс рубля, потому что при обмене валютной выручки эти компании получают меньше рублей, и удары по российским портам, через которые нефть отправляют в другие страны. 
+ 
+В то же время акции компаний, которые работают только на внутреннем рынке, могут скоро начать расти. Этому поможет ожидаемое снижение ключевой ставки Центробанка — процента, под который регулятор выдает кредиты коммерческим банкам. Когда кредиты становятся дешевле, бизнес может активнее развиваться. 
+ 
+Самую большую долю в фонде занимают компании, которые продолжают показывать сильные финансовые результаты. Среди них Ozon, Яндекс и Т-Технологии. 
+ 
+Кроме того, по оценкам управляющих, дивиденды по некоторым бумагам в портфеле в ближайший год могут превысить 15%. К ним относятся Корпоративный центр Икс 5, HeadHunter и Циан. 
+ 
+Как только ситуация на Ближнем Востоке станет спокойнее, инвесторы могут начать продавать акции нефтегазовых компаний и покупать акции внутреннего рынка. Благодаря этой стратегии фонд рассчитывает принести клиентам доходность выше, чем у биржевого индекса. 
+ 
+ 
+Как задать вопросы 
+ 
+
+
+ 
+Позвоните нам 
++7 495 777-99-98 
+
+
+	 
+Напишите нам 
+capital@raiffeisen.ru 
+
+
+	
+	
+
+
+ 
+ 
+Ваша управляющая компания Райффайзен 
+
+
+ 
+ 	
+Аналитическая информация предоставлена ООО «УК Райффайзен». 
+
+Материалы носят исключительно информационный характер, не являются индивидуальной инвестиционной рекомендацией. Упомянутые финансовые инструменты могут не соответствовать вашему финансовому положению, целям инвестирования, допустимому риску и ожидаемой доходности. ООО «УК Райффайзен» не несет ответственности за возможные убытки, понесенные в результате инвестирования в финансовые инструменты, упомянутые в материале. Аналитические материалы основаны на данных из открытых источников, которые ООО «УК Райффайзен» считает надежными. Исчерпывающая проверка этих данных невозможна, ООО «УК Райффайзен» не гарантирует их полноту и точность. Все приведенные данные являются ориентировочными и зависят от рыночной ситуации. Перед принятием инвестиционного решения инвестору следует самостоятельно оценить все параметры и риски финансового инструмента, а при необходимости — привлечь профильных консультантов. Стоимость инвестиций может меняться, что создает риск потери первоначальной суммы. Прошлая доходность не гарантирует аналогичных результатов в будущем. Инвестор обязан ознакомиться с декларациями с описанием рисков до начала инвестирования. Несмотря на возможное оказание финансовых услуг компаниям, чьи инструменты упоминаются в аналитике, ООО «УК Райффайзен» строго соблюдает внутреннюю политику по управлению конфликтом интересов для защиты прав инвесторов. Копирование и распространение данных материалов запрещено без предварительного письменного согласия ООО «УК Райффайзен». 
+
+ООО «УК Райффайзен», Лицензия ФСФР России № 21-000-1-00640 от 21.04.2009 
+Адрес: 119002, г. Москва, Смоленская-Сенная площадь, д. 28 
+Тел.: +7 495 777-99-98 
+www.raiffeisen-capital.ru 
+
+Вам пришло это письмо, потому что вы инвестировали в продукт управляющей компании Райффайзен. Вы можете отписаться от рассылок. 
+
+ 
+
+	
+
+
+ 
+
+
+
+ 
+
+
+
+
+SEPARATOR
+ 
+
+Официальный чат дома в МАХ
+В приложении для общения MAX создан официальный чат Вашего дома. В нем вы можете:
+•	безопасно общаться с жителями Вашего дома;
+•	решать вопросы с представителями управляющей организации;
+•	получить быстрый доступ к возможностям платформы «Электронный дом»: передаче показаний счетчиков, заявкам по дому и двору, оплате ЖКУ, обращениям в УК и другим.
+
+
+Вступить в чат можно через чат-бот «Электронного дома» в MAX.
+
+Вступить в чат
+
+
+
+Важно! Чат доступен только собственникам и зарегистрированным по адресу жителям. Адрес должен быть добавлен в профиль пользователя на платформе «Электронный дом» и подтвержден. При необходимости собственник или зарегистрированный житель может выдать повышенный гостевой доступ другим проживающим в квартире для общения в чате.
+Нужна помощь? Обращайтесь в службу технической поддержки «Электронный дом» в приложении или на сайте платформы.
+
+
+
+Скачивайте приложение
+«Электронный дом Москва»
+ 
+ 
+
+
+	Регистрируйтесь на сайте
+ed.mos.ru
+
+ 
+ 
+
+	Обратная связь
+
+
+
+
+
+
+
+Вы получили это письмо, потому что пользуетесь электронными услугами и сервисами Правительства Москвы. Если Вы не хотите получать уведомления от проекта «Электронный дом», откажитесь от рассылки.
+
+
+
+
+ 
+
+SEPARATOR
+Добрый день.
+Курс доллара на межбанковском рынке впервые с февраля 2023 года опустился ниже 73 рублей.
+Для клиентов, рассматривающих валютную диверсификацию и формирование международного инвестиционного портфеля, текущие уровни могут представлять интерес с точки зрения долгосрочного распределения капитала.
+При необходимости буду рада отдельно обсудить возможные инструменты и подходы.
+
+Anna Mukhariamova
+
+Senior personal manager
+mob. +7969 111-11-76
+e-mail: anna.mukhariamova@fbroker.kz
+
+
+
+
+________________________________
+
+
+
+This communication contains information which is confidential, and is for the exclusive use of the addressee(s). If you are not a named addressee please contact the sender immediately, and delete the communication from your system. Any views or opinions presented are solely those of the author and do not necessarily represent company unless specifically stated.
+
+
+This footer also confirms that this e-mail message has been scanned for the presence of computer viruses. Scanning of this message and addition of this footer is performed by Microsoft Cloud email gateway.
+
+
+SEPARATOR
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                                                                                                                                                                        
+ 
+
+
+
+
+Ставки по накопительным счетам
+
+
+
+ 
+
+
+
+
+Здравствуйте, Алексей!
+
+
+С 27.02.2026 мы обновляем ставки по накопительным счетам, условия БКС Банка остаются одними из лучших на рынке — до 15,5% годовых.
+
+Посмотрите подробные ставки в таблице ниже.
+
+Войдите в мобильное приложение или личный кабинет, чтобы узнать свою персональную ставку и пополнить накопительный счет!
+
+
+
+Актуальные ставки по накопительному счету с 27.02.2026
+
+
+ 
+
+
+
+
+Мы делаем все, чтобы ваш накопительный счет был максимально выгодным и удобным.
+
+
+ 
+
+	 	Приветственная ставка в первые 2 месяца.
+
+
+ 
+
+	 	Проценты начисляются на ежедневный остаток, а не на минимальный. Снимать и пополнять счет можно без потери ранее накопленных процентов.
+
+
+ 
+
+	 	Максимальная сумма для повышенной ставки — 50 млн рублей. На нее действует ставка 15,5%. Если сумма превышает этот порог, на превышение начисляются стабильные 10%.
+
+
+ 
+
+	 	Чтобы получить бонусную ставку, выполните одно из следующих условий:
+•	покупки по карте на сумму от 10 000 ₽ или от 30 000 ₽ до 25 числа текущего месяца
+•	неснижаемый остаток на текущем счете от 50 000 ₽ в предыдущем месяце
+•	зачисление заработной платы или других доходов.
+Без выполнения условий начисляется базовая ставка до 14% годовых на уровне обслуживания Ультима Black и 10% годовых на остальных уровнях обслуживания.
+
+
+Накопительный счет 
+
+
+
+
+
+С уважением,
+БКС Банк для инвесторов
+
+
+
+
+
+Это письмо было вам полезно?
+	 	Да 
+
+	Нет 
+
+
+
+
+8 800 500-16-18
+
+Звонки по России бесплатно
+bank.bcs.ru
+
+	 	 
+
+
+
+Акционерное общество «БКС Банк», универсальная лицензия Банка России № 101 от 29.11.2018. Выдана без ограничения срока действия. Максимальные условия по процентной ставке по накопительному счету указаны с учетом бонусной надбавки 1% на уровнях «Стандарт», «Приоритет» и «Премиум», 1,2% на уровнях «Премиум+» и «Ультра», 1,5% на уровнях «Профи», «Ультима», «Ультима+», «Ультима Black», начисляемой на входящий остаток денежных средств на накопительном счете в рамках соответствующего пакета услуг (уровня привилегий), которая действует в течение двух календарных месяцев для новых клиентов, начиная с месяца заключения ДКБО, а также для клиентов, у которых 90 дней не было остатков более 10 000 ₽ на накопительном счете. 
+
+На уровнях «Стандарт», «Премиум», «Премиум+», «Ультра», «Профи», «Ультима», «Ультима+» процентные ставки (базовые/бонусные): 10%/13,5%; на «Ультима Black» — 14%/14%. Бонусные ставки и бонусные надбавки действуют при зачислении зарплаты на счет или покупках по карте от 10 000 ₽ на уровнях «Стандарт», «Приоритет», «Премиум», «Премиум+» и от 30 000 ₽ на уровнях, «Ультра», «Профи», «Ультима», «Ультима+», «Ультима Black» или при остатках на текущих счетах, открытых в рублях, в течение последних 20 календарных дней календарного месяца, предшествующего календарному месяцу, за который осуществляется начисление, не ниже 50 000 ₽. К покупкам по карте не относятся оплата по QR-коду и переводы по карте (в т. ч. через СБП), также есть список МСС-кодов-исключений. 10% начисляется всегда на сумму, превышающую 50 млн рублей на всех уровнях обслуживания. Подробнее на сайте БКС Банка в тарифах.
+
+
+
+Отписаться от рассылки можно в настройках БКС Банк
+
+
+
+
+
+ 
+
+SEPARATOR
+ 
+ 
+ 	 
+ 
+ 
+ 	Здравствуйте! 	 
+ 
+ 	Пусть лето остается беззаботным, а о безопасности ваших устройств позаботится «Доктор Веб». Сегодня мы запускаем летнюю распродажу Dr.Web! 	 
+ 
+ 	Условия распродажи: 	 
+ 
+ 	С 3 по 7 августа действует скидка 15% на Dr.Web Security Space и Dr.Web Security Space для мобильных устройств при покупке лицензии на 2 или 3 года. 	 
+ 
+ 
+ 	Выбрать защиту 
+ 
+ 
+ 	И это еще не все! 	 
+ 
+ 	Каждый оплаченный заказ в эти дни автоматически участвует в розыгрыше. Разыгрываем 10 призов, список победителей опубликуем 12 августа на странице акции. 
+ 
+ 
+ 
+ 	 
+ 
+ 
+ 	Чем больше заказов, тем выше шансы на победу. Поспешите — распродажа продлится всего 5 дней. 	 
+ 
+ 	Защити созданное,
+«Доктор Веб» 	 
+ 
+ 
+ 	drweb.ru 
+
+ 
+
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+	 
+ 	________________________________________	 
+ 
+ 	© «Доктор Веб» 2003 — 2026 
+ 
+
+	Отписаться от рассылки 
+
+ 
+
+
+	 
+
+ 
+
+
+
+
+SEPARATOR
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Россия, Мадагаскар, Турция, Мальдивы, Сейшелы, Греция 
+
+SEPARATOR
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+City Centre Mirdiff , Dubai
+ 
+Stay in touch with us
+ 
+ 
+ 
+
+
+
+
+ 
+
+Unsubscribe
+|	Privacy Policy
+|	Contact Us
+
+
+
+Copyright © 2026 Majid Al Futtaim Entertainment, All rights reserved.
+
+
+
+ 
+
+SEPARATOR
+
+
+Hi Alex,
+
+
+
+
+
+Room151's Technology, Data and Finance Forum brings together senior finance, digital and transformation leaders from across local government — and we're opening a limited number of private sector places for suppliers, consultancies and technology partners who want to be in that room.
+
+
+
+Here's what makes it worth your time:
+
+Hear directly from council digital transformation leaders about how technology decisions are actually being made, and what's driving change across the sector right now.
+
+
+
+Get ahead of the AI and data agenda by understanding how authorities are evaluating and adopting AI, data and analytics — and where the real opportunities sit for your business.
+
+
+
+Understand procurement and partnership priorities straight from the people setting the strategy, including how councils are approaching supplier relationships and long-term technology planning.
+
+
+
+Build real relationships with the finance, digital and transformation leaders who influence technology spend across local government — not just a badge-scan, but genuine conversation.
+
+
+
+View the agenda
+Register your free place
+
+
+
+
+
+
+
+
+Speakers confirmed from organisations including: Buckinghamshire Council, Calderdale Council, Cumberland Council, Granicus, Herefordshire Council, Lloyds Banking Group, London Borough of Hackney, London Borough of Hammersmith & Fulham, London Borough of Islington, London Office of Technology and Innovation (LOTI), Luton Borough Council, North Yorkshire Council, Oxfordshire County Council, South Gloucestershire Council, Stockport Council, Winchester City Council, Xylo and more.
+
+Confirmed speakers
+Register your free place
+
+
+
+
+
+
+
+
+Private sector places are strictly limited to keep the room focused on real dialogue between suppliers and local authority leaders, and sponsorship opportunities for this forum are similarly limited.
+
+
+
+Join us on 14 October to be part of the conversation shaping local government technology.
+
+
+
+
+
+
+
+Psst…If you are public sector, it is free to attend - bring your team and make the most of it.
+
+
+
+We look forward to welcoming you in October.
+
+
+Interested in sponsorship? Get in touch here.
+If you would like to sponsor or exhibit at this year’s conference, contact george.howard-smith@room151.co.uk
+
+
+
+Best regards,
+
+Sally Shaw
+
+Producer - Room151
+
+View email in browser
+Longview Productions Ltd · Blackwell House, Guildhall Yard · London, EC2V 5AE · United Kingdom
+update your preferences or unsubscribe
+
+
+SEPARATOR
+Hello,
+
+I hope you are well.
+
+I am still waiting for your reply.
+
+May I send you our Plan & Price details?
+
+Thank you,
+From: Sarah Cook
+Sent: Friday, July 24, 2026, 2:15 PM
+Subject: Re:
+
+Hi,
+
+I hope you are doing well!
+
+I was checking your website and see you have a good web design, and it looks great, but it's not ranking on Google and other major search engines.
+
+We can place your website on Google's 1 page. Facebook, LinkedIn, YouTube, Instagram, Pinterest, Yahoo, and so on.
+
+Would you like to optimize it for more visibility and more customers? You'll see results within the first month.
+
+Can I send you a low-cost plan to improve your visibility and traffic?
+
+Thanks,
+Sarah Cook
+
+SEPARATOR
+Hi Alneste,
+
+We work with teams who need to improve how ideas move from concept to delivery without adding another heavyweight process.
+
+We've developed Lean Scenes — a light-weight way to describe initiatives that makes sense to the three groups who determine whether work succeeds:
+
+Makers – clear pilots that demonstrate value quickly.
+Managers – better learning, delivery and commercialisation.
+Leadership – evidence for investment, automation and business outcomes.
+It complements existing governance rather than replacing Agile, PRINCE2 or your delivery methods.
+
+I've written a short white paper explaining the approach.
+
+Download it here
+
+If it raises any questions, you can simply reply to this email or choose whichever contact option suits you.
+
+No mailing lists.
+
+No obligation.
+
+Just a practical idea that may help your next initiative succeed.
+
+Kind regards,
+
+Zak Moore
+
++44 (0) 7780 998813
+
+Time & Emotion
+
+
+SEPARATOR
+
+Hello,
+I still waiting for your Reply
+Thanks.
+From: umma sharma
+Sent: Tuesday, August 04, 2026 1:39 PM
+Subject: Re- SEO plan
+Hello,
+Your website looks great, but it isn't ranking well on Google.
+I noticed one SEO issue that could improve your visibility on Google.
+May I send you an SEO proposal with pricing? If yes, please share your target keyword.
+Thank you!
+Umma
+
+SEPARATOR
+
+ 	Global Tenders	
+Dear Alex,
+
+Please find below a market analysis to provide an overview of the notices released for your products and services in July 2026. The report gives insights into the opportunities released in the past one month with daily trends and top countries.
+
+The report can be further customized for specific products and target regions.
+
+Number of notices released - 24
+
+Most popular keyword - cybersecurity
+
+Most tenders were released by Carmarthenshire County Council
+
+Top funding agency -
+
+View Live View Live download Download report download Subscribe Now
+Your saved profile
+Keywords	Veeam,Acronis,Eset,Backup and Restore,digital security,cybersecurity
+Sector	Information Technology(IT),Software Services
+CPV	48730000 (Security software package ), 48731000 (File security software package ), 48732000 (Data security software package ), 48710000 (Backup or recovery software package )
+Region	United Kingdom
+Snapshot for opportunities released for Bradleysoft
+Keyword Analysis
+
+ 	
+ 	
+Top Authorities
+Authority	Count
+Carmarthenshire County Council	2
+Met Office	2
+Glf Schools	1
+Senedd Cymru Welsh Parliament	1
+Scottish Government	1
+Ministry of Defence	1
+Transport for London	1
+University of Worcester	1
+City and County of Swansea	1
+Hebridean Housing Partnership Ltd	1
+Modify profile
+
+Please feel free to contact us for all queries. 
+
+Best Regards,
+
+Customer Support Team
+
+
+
+
