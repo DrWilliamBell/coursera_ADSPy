@@ -20,4 +20,4 @@ jobs:
           pip install pandas  # Добавьте сюда другие библиотеки через пробел, если используете их
 
       - name: Запуск скрипта
-        run: python script.py # Замените script.py на имя вашего файла
+        run: python "20260824 Assignment 4_3.py" # Замените script.py на имя вашего файла
